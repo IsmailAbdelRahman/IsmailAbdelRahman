@@ -49,18 +49,28 @@
 
 -->
 
+
+
+
+<details>
+<summary> Hi there 👋 </summary>
+     
 <p align="center">
-  <a href="https://fontmeme.com/spongebob-squarepants-font/"><img src="https://fontmeme.com/permalink/251209/ff935e5827501da052ab11b9242099b7.png" alt="spongebob-squarepants-font" border="0"></a>
+<a href="https://fontmeme.com/spongebob-squarepants-font/"><img src="https://fontmeme.com/permalink/251209/ff935e5827501da052ab11b9242099b7.png" alt="spongebob-squarepants-font" border="0"></a>
 </p>
 
 
+>> **«لا غنى أغنى من نعمة العقل، ولا فقر أوحش من فقر الجهل، ولا ميراث أفضل من ميراث الأخلاق،  
+> فمن امتلك العقل فاز، ومن تخلق بالأخلاق الطيبة ارتقى، ومن اجتنب الجهل وتمسك بالعلم نجا.»**
+
+
+
+</details>
 
 
 
 
 ---
-> Hi there 👋
-
 
 
 
@@ -75,6 +85,8 @@
   - 📫 How to reach me: **Conquer.spacetime@gmail.com**
 
   - 👀 Fun fact: **I'm a huge Love Writing coding **
+
+
 
 
 
