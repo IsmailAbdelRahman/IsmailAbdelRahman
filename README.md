@@ -1,11 +1,14 @@
 
-<img src="https://cdn.pixabay.com/animation/2024/09/02/23/48/23-48-44-732_512.gif" 
+
+
+<img src="https://img.freepik.com/free-vector/day-programmer-poster_1308-114405.jpg?t=st=1765280933~exp=1765284533~hmac=8cff897741ba9fd8e039fe4fce23ac63b13ef8aa7e5f6c6c779a46205e872b47&w=740" 
      alt="Illustration" 
      width="100%" 
      height="auto" />
 
 
 
+---
 
 <!--
 <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhpeWgwaWdhc2ZkZW1zODNmaGZsenk0YWowOGRjM2F1ZjBxM2xsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Illustration" width="600" height="150"/>
@@ -23,7 +26,11 @@
 </p>
 
 
-## Hi there 👋
+---
+> Hi there 👋
+
+
+
 
 ## [![About Me](https://fontmeme.com/permalink/231015/00432d1aabb8bfa47e28a24e8e4ef8fd.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
 
@@ -37,6 +44,13 @@
 
   - 👀 Fun fact: **I'm a huge Love Writing coding **
 
+
+
+
+<img src="https://cdn.pixabay.com/animation/2024/09/02/23/48/23-48-44-732_512.gif" 
+     alt="Illustration" 
+     width="100%" 
+     height="auto" />
 
 
 <!--
