@@ -56,6 +56,25 @@
 
 
 
+
+
+
+<img src="images/github.gif.gif" width="100%" alt="GitHub Banner"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary> Hi there 👋 </summary>
      
@@ -69,7 +88,19 @@
 </details>
 
 
-<img src="images/github.gif.gif" width="100%" alt="GitHub Banner"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
