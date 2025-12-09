@@ -1,6 +1,9 @@
 
+<img src="https://cdn.pixabay.com/animation/2024/09/02/23/48/23-48-44-732_512.gif" 
+     alt="Illustration" 
+     width="100%" 
+     height="auto" />
 
-<img src="https://img.freepik.com/free-vector/digital-white-background-with-binary-code-algorithm-numbers_1017-54561.jpg?t=st=1765279747~exp=1765283347~hmac=cf7d0416619d7961d8a3a47328ef66562c4c78648b89988feac35f8ff20fe127&w=740" alt="Illustration" width="2000"  hight="50" />
 
 
 
