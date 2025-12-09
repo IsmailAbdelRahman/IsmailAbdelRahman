@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<img src="https://img.freepik.com/premium-psd/mountain-landscape-with-lake-starry-sky-moonlight-dusk_370123-176.jpg" alt="Night Ocean" width="2000"  hight="100" />
+
+<img src="https://img.freepik.com/free-vector/digital-white-background-with-binary-code-algorithm-numbers_1017-54561.jpg?t=st=1765279747~exp=1765283347~hmac=cf7d0416619d7961d8a3a47328ef66562c4c78648b89988feac35f8ff20fe127&w=740" alt="Illustration" width="2000"  hight="50" />
 
 
 
@@ -18,6 +18,9 @@
 <p align="center">
   <a href="https://fontmeme.com/spongebob-squarepants-font/"><img src="https://fontmeme.com/permalink/251209/5bd941ac54e7bdf38d4c0a4bd735eb92.png" alt="spongebob-squarepants-font" border="0"></a>
 </p>
+
+
+## Hi there 👋
 
 ## [![About Me](https://fontmeme.com/permalink/231015/00432d1aabb8bfa47e28a24e8e4ef8fd.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
 
