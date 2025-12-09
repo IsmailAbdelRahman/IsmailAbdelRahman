@@ -50,18 +50,19 @@
 -->
 
 
+<p align="center">
+<a href="https://fontmeme.com/spongebob-squarepants-font/"><img src="https://fontmeme.com/permalink/251209/ff935e5827501da052ab11b9242099b7.png" alt="spongebob-squarepants-font" border="0"></a>
+</p>
+
 
 
 <details>
 <summary> Hi there 👋 </summary>
      
 <p align="center">
-<a href="https://fontmeme.com/spongebob-squarepants-font/"><img src="https://fontmeme.com/permalink/251209/ff935e5827501da052ab11b9242099b7.png" alt="spongebob-squarepants-font" border="0"></a>
+     mode
 </p>
 
-
->> **«لا غنى أغنى من نعمة العقل، ولا فقر أوحش من فقر الجهل، ولا ميراث أفضل من ميراث الأخلاق،  
-> فمن امتلك العقل فاز، ومن تخلق بالأخلاق الطيبة ارتقى، ومن اجتنب الجهل وتمسك بالعلم نجا.»**
 
 
 
@@ -71,7 +72,6 @@
 
 
 ---
-
 
 
 ## [![About Me](https://fontmeme.com/permalink/231015/00432d1aabb8bfa47e28a24e8e4ef8fd.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
@@ -89,6 +89,7 @@
 
 
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="images/github.svg" />
 
 
 <img src="https://cdn.pixabay.com/animation/2024/09/02/23/48/23-48-44-732_512.gif" 
