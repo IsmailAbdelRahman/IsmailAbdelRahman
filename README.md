@@ -4,7 +4,8 @@
 
 
 
-<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhpeWgwaWdhc2ZkZW1zODNmaGZsenk0YWowOGRjM2F1ZjBxM2xsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Illustration" width=500 height=150/>
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhpeWgwaWdhc2ZkZW1zODNmaGZsenk0YWowOGRjM2F1ZjBxM2xsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Illustration" width="500" height="150"/>
+
 <p align="center">
   <a href="https://fontmeme.com/spongebob-squarepants-font/"><img src="https://fontmeme.com/permalink/251209/5bd941ac54e7bdf38d4c0a4bd735eb92.png" alt="spongebob-squarepants-font" border="0"></a>
 </p>
