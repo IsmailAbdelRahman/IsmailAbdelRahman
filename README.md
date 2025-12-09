@@ -72,7 +72,6 @@
 <img src="images/github.gif.gif" width="100%" alt="GitHub Banner"/>
 
 
----
 
 
 ## [![About Me](https://fontmeme.com/permalink/231015/00432d1aabb8bfa47e28a24e8e4ef8fd.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
