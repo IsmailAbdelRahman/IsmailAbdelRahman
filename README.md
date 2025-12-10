@@ -117,22 +117,36 @@
 
 
 
-
 ## [![About Me](https://fontmeme.com/permalink/231015/00432d1aabb8bfa47e28a24e8e4ef8fd.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
 
   - 👨🏽‍💻 Hi my name is **Ismail** and I'm a **Android App Developer | Flutter Enthusiast, Not Working Now**
 
   - 📚 I’m currently studying Flutter and Android app development to build beautiful and efficient mobile applications 🚀
 
-  - ℹ️ Hobbies: **Games 🎮 | Music 🎧 | Exercise 🏃 | **
+  - ℹ️ Hobbies: **Games 🎮 | Music 🎧 | Exercise 🏃 |**
 
   - 📫 How to reach me: **Conquer.spacetime@gmail.com**
 
-  - 👀 Fun fact: **I'm a huge Love Writing coding **
+  - 👀 Fun fact: **I'm a huge Love Writing coding**
 
 
 
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+</p>
+
+---
 
 
 
