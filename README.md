@@ -1,10 +1,23 @@
 
 
+<!--
 
 <img src="https://img.freepik.com/free-vector/day-programmer-poster_1308-114405.jpg?t=st=1765280933~exp=1765284533~hmac=8cff897741ba9fd8e039fe4fce23ac63b13ef8aa7e5f6c6c779a46205e872b47&w=740" 
      alt="Illustration" 
      width="100%" 
      height="auto" />
+
+
+-->
+
+
+
+
+<p align="center">
+    <img height="300" alt="Thanks for visiting me" width="2000"   src="images/todomow.gif" />
+</p>
+
+
 
 
 
@@ -86,9 +99,6 @@
 
 
 </details>
-
-
-
 
 
 
