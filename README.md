@@ -14,14 +14,14 @@
 
 
 <p align="center">
-    <img height="300" alt="Thanks for visiting me" width="2000"   src="images/todomow.gif" />
+    <img height="250" alt="Thanks for visiting me" width="2000"   src="images/todomow.gif" />
 </p>
 
 
 
 
 
----
+
 
 <!--
 <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhpeWgwaWdhc2ZkZW1zODNmaGZsenk0YWowOGRjM2F1ZjBxM2xsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Illustration" width="600" height="150"/>
